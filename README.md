@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wafemi999
-- 👀 I’m interested in python for data science
-- 🌱 I’m currently learning Analystics and Data science
+- 👋 Hi, I’m Oluwafemi'Manuel
+- 👀 I’m interested in data analytics and data engineering
+- 🌱 I’m currently a BI analyst   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... via whatsapp +234 7038632830
 

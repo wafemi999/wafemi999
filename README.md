@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Oluwafemi'Manuel
 - 👀 I’m interested in data analytics, data engineering and software development
-- 🌱 I’m currently a BI analyst   
-- 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me ... via whatsapp +234 7038632830
 
 <!---

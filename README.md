@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwafemi'Manuel
-- 👀 interested in data + software Engineering
+- 👀 Data + software Engineering
 - 📫 How to reach me ... via whatsapp +234 7038632830 or emmanoyelola@gmail.com
 
 <!---

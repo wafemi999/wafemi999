@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwafemi'Manuel
-- 👀 Data + software 
+- 👀 I am intrigued by the intersection of software and data engineering. 
 - 📫 How to reach me ... via whatsapp +234 7038632830 or emmanoyelola@gmail.com
 
 <!---

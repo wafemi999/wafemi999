@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwafemi'Manuel
 - 👀 I am intrigued by the intersection of software and data engineering. 
-- 📫 How to reach me ... via whatsapp +234 7038632830 or emmanoyelola@gmail.com
+- 📫 How to reach me ... via whatsapp +234-7038632830 or emmanoyelola@gmail.com
 
 <!---
 wafemi999/wafemi999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
